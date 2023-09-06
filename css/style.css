@@ -587,6 +587,8 @@ img{
 /* ---------------------------customers---------------------------- */
 .customers {
    padding: 96px 0 96px;
+   max-width: 580px;
+   margin: 0 auto;
 }
 @media only screen and (min-width: 1158px) {
    .customers {
@@ -1287,11 +1289,7 @@ img{
 .mobile-menu {
    margin-bottom: auto;
 }
-.mobile-menu-icon{
-   stroke: var(--title);
-   fill: #ff0000;
-   background-color: #2E2F42;
-}
+.mobile-menu-icon{}
 
 .mobile-menu .link {
    display: block;
