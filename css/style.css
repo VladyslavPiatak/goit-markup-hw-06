@@ -1152,8 +1152,7 @@ img{
 }
 
 .mobile-menu-social {
-   gap: 56px;
-   align-self: start;
+   justify-content: space-around;
 }
 
 .mobile-contacts {
@@ -1165,7 +1164,7 @@ img{
 
 .mobile-tel {
    color: var(--accent);
-   font-size: 36px;
+   font-size: 24px;
    font-style: normal;
    font-weight: 700;
    line-height: 1.11;
