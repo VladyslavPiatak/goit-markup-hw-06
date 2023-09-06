@@ -1152,7 +1152,8 @@ img{
 }
 
 .mobile-menu-social {
-   justify-content: space-between;
+   gap: 56px;
+   align-self: start;
 }
 
 .mobile-contacts {
