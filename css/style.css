@@ -1276,7 +1276,7 @@ img{
    transition: transform 250ms ease-in-out;
 }
 
-.menu-container.is-open {
+.menu-container .is-open {
    transform: translateX(0);
 }
 
