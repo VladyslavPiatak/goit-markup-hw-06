@@ -1289,7 +1289,8 @@ img{
 .mobile-menu {
    margin-bottom: auto;
 }
-.mobile-menu-icon{
+
+.icon-menu{
    fill: red;
    stroke: red;
 }
